@@ -8,6 +8,7 @@ If you haven't yet heard about [Spacemesh](https://spacemesh.io) you should stop
 
 ## Get Started
 
+Here are some of the repositories for the projects we are contributing to the Spacemesh ecosystem:
 * [smesher-plot-speed](https://github.com/smeshcloud/smesher-plot-speed) - Realtime statistics of your Spacemesh smesher PoST generation
 * [multi-provider-generate-post](https://github.com/smeshcloud/multi-provider-generate-post) - Generate a PoST using multiple providers (i.e. multiple CPUs or multiple GPUs, on same or different systems)
 * [auto-spacemesh](https://github.com/smeshcloud/auto-spacemesh) - An automated pipeline to generate PoST, PoET, and run a spacemesh node (utilitizes efforts from all of the other projects here)
