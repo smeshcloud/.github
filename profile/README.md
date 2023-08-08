@@ -11,7 +11,7 @@ If you haven't yet heard about [Spacemesh](https://spacemesh.io) you should stop
 * [smesher-plot-speed](https://github.com/smeshcloud/smesher-plot-speed) - Realtime statistics of your Spacemesh smesher PoST generation
 * [multi-provider-generate-post](https://github.com/smeshcloud/multi-provider-generate-post) - Generate a PoST using multiple providers (i.e. multiple CPUs or multiple GPUs, on same or different systems)
 * [auto-spacemesh](https://github.com/smeshcloud/auto-spacemesh) - An automated pipeline to generate PoST, PoET, and run a spacemesh node (utilitizes efforts from all of the other projects here)
-* [nvidia-cuda-opencl] - Docker base image for easily harnessing NVIDIA-based CUDA & OpenCL, ideal for use with cloud providers for harnessing the [auto-spacemesh](https://github.com/smeshcloud/auto-spacemesh) pipeline
+* [nvidia-cuda-opencl](https://github.com/smeshcloud/nvidia-cuda-opencl) - Docker base image for easily harnessing NVIDIA-based CUDA & OpenCL, ideal for use with cloud providers for harnessing the [auto-spacemesh](https://github.com/smeshcloud/auto-spacemesh) pipeline
 
 ## Disclaimer
 
