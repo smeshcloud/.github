@@ -1,6 +1,6 @@
 # smesh.cloud
 
-![SmeshCloud Logo](profile/smeshcloud-logo1.png)
+![SmeshCloud Logo](/profile/smeshcloud-logo1.png)
 
 SmeshCloud is a hobbyist effort to enhance Spacemesh crypto. We create tools to help you maximize your Spacemesh experience.
 
