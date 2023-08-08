@@ -1,4 +1,4 @@
-# smesh.cloud
+# SmeshCloud
 
 ![SmeshCloud Logo](/profile/smeshcloud-logo1.png)
 
