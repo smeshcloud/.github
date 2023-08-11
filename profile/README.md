@@ -4,6 +4,8 @@
 
 SmeshCloud is a hobbyist effort to enhance Spacemesh crypto. We create tools to help you maximize your Spacemesh experience.
 
+Contribute SMH to `sm1qqqqqqxre24mtprsmuht8gfhu28z95hm22zvrdq34rmr8`, much appreciated!
+
 ## Introduction
 
 If you haven't yet heard about [Spacemesh](https://spacemesh.io) you should stop everything you are doing right now and go read up. It is a revolutionary new crypto that does things a bit differently.
